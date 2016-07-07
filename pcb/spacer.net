@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source /Users/tannewt/chickadee-projects/spacer/pcb/spacer.sch)
-    (date "Thursday, April 14, 2016 'AMt' 11:23:19 AM")
+    (source /Users/tannewt/chickadee-split/spcr/pcb/spacer.sch)
+    (date "Thursday, July 07, 2016 'PMt' 02:53:46 PM")
     (tool "Eeschema 4.0.1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

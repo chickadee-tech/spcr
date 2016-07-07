@@ -28,9 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:ckd_sandwich
-LIBS:ti-gate
-LIBS:spacer-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -56,7 +53,7 @@ F 1 "10k" V 4700 3650 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 4630 3650 50  0001 C CNN
 F 3 "" H 4700 3650 50  0000 C CNN
 	1    4700 3650
-	1    0    0    -1  
+	1    0    0    -1
 $EndComp
 Text Notes 3600 3450 0    60   ~ 0
 Useless resistor used to satisfy the requirement\nthat boards have parts on them for MacroFab.

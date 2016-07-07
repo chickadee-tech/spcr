@@ -58,5 +58,3 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/tannewt/kicad/libraries/ckd_sandwich
-LibName31=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/ti-gate
